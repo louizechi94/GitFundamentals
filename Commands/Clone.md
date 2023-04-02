@@ -17,4 +17,3 @@ git clone https://github.com/ElevenfiftyAcademy/TerminalDungeon.git
 ---
 
 [Back to home](../README.md)
-- [git clone](./commands/Clone.md)

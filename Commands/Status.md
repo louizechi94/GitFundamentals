@@ -24,4 +24,3 @@ git status
 ---
 
 [Back to home](../README.md)
-- [git status](./commands/Status.md)
